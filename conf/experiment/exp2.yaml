@@ -1,0 +1,7 @@
+defaults:
+  - model: model_conf
+  - optimizer: nesterov_conf
+  - training: training_conf
+
+experiment:
+  description: "Experiment 2 with Nesterov optimizer"

@@ -1,0 +1,94 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "CPython 3.11.11",
+    "heartbeatAt": "2025-01-13T18:30:57.585125",
+    "startedAt": "2025-01-13T18:30:55.907439",
+    "docker": null,
+    "args": [
+        "service",
+        "--debug",
+        "--port-filename",
+        "/tmp/tmpp59oidrf/port-36575.txt",
+        "--pid",
+        "36575"
+    ],
+    "state": "running",
+    "program": "/root/my_repo/weights_and_bias_solution3.py",
+    "codePathLocal": "weights_and_bias_solution3.py",
+    "codePath": "weights_and_bias_solution3.py",
+    "git": {
+        "remote": "https://github.com/adriaboschmatas/mlops_project",
+        "commit": "8403852ca4acfe7511b41473663e4d9b42232b7a"
+    },
+    "email": "s232775@dtu.dk",
+    "root": "/root/my_repo",
+    "host": "LAPTOP-S1LF613P",
+    "username": null,
+    "executable": "/root/.pyenv/versions/3.11.11/envs/my_env/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2807.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1081101176832,
+            "used": 20066398208
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1050",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 8260702208
+    }
+}

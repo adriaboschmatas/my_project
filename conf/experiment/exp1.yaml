@@ -1,0 +1,7 @@
+defaults:
+  - model: ../../model/model_conf
+  - optimizer: ../../optimizer/adam_conf
+  - training: ../../training/training_conf
+
+experiment:
+  description: "Experiment 1 with default settings"

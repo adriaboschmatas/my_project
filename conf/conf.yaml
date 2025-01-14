@@ -1,0 +1,5 @@
+defaults:
+  - model: model_conf
+  - optimizer: adam_conf
+  - training: training_conf
+  - experiment: null  # Override with experiments
